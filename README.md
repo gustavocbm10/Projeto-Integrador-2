@@ -1,1 +1,3 @@
-# Projeto-Integrador-2
+# Introdução Domótica
+
+Isso é apenas um teste para verificar se está tudo ok
