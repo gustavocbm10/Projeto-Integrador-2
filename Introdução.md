@@ -6,3 +6,16 @@ O termo foi criado pela décadad de 80, o qual tinha o objetivo de controlar a i
 Além da comodidade, outro benefício importante dessa tecnologia, é a segurança, onde tornou-se possivel acessar de forma remota sensores, câmeras, armar alarmes, etc.
 
 A economia e a sustentabilidade que podem ser geradas pela automação também é outro grande benefício, porque tornou-se possivel gerenciar o consumo de cada item da casa, sendo assim diminuindo seu uso ou até desligando automaticamente.
+
+
+## Referências
+
+MATTEDE, Henrique. Domótica – O que é e quais as vantagens!. **Mundo da Elétrica**. Disponível em: <https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/>. Acesso em:  19 outubro 2021.
+
+MOREIRA, Julio Cezar Evaristo et al. **Redes Domiciliares**. Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2010. Disponível em: https://www.gta.ufrj.br/grad/10_1/domotica/index.html. Acesso em: 19 outubro 2021.
+
+TEZA, Vanderlei Rabelo. **Alguns aspectos sobre a automação residencial - Domótica**. 2002. 106 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Santa Catarina, Florianópolis, 2002. Disponível em: <https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y>. Acesso em: 19 outubro 2021.
+
+TÓFOLI, Ricardo José. **Casa Inteligente:** sistema de automação residencial. 2014. 74 f. Tese (Doutorado) - Curso de Tecnologia em Análise e Desenvolvimento de Sistemas, Instituto Municipal de Ensino Superior de Assis, Assis, 2014. Disponível em: <https://cepein.femanet.com.br/BDigital/arqTccs/1211320586.pdf>. Acesso em: 19 outubro 2021.
+
+Domótica. **Mundo Educação**. Disponível em: <https://mundoeducacao.uol.com.br/informatica/domotica.htm>. Acesso em: 19 outubro 2021.
