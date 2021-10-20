@@ -1,1 +1,2 @@
-
+# Domótica
+Cada vez mais anos que passam, mais as tecnologias buscam a integração e também a comodidade diária nas nossas vidas. Um exemplo claro disso é quando mandamos nossa assistente pessoal do celular para armar um alarme para quem sabe, uma reunião importante. Entretando essa ideia de apenas um alarme, evoluiu para quem sabe, pedir para o aspirador limpar um comodo da casa, ou programar horarios e dias para ele fazer essa limpeza. Isso é apenas um exemplo, mas a Domótica procura a Automação Residencial, ou seja, a integração de várias tecnologias para gerar uma maior comodidade das funções da casa no dia a dia.
