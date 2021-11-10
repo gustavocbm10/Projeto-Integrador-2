@@ -11,5 +11,6 @@ O nosso objetivo desse projeto, é fazer um sistema de automação residencial q
 * Abrir/Fechar janelas da casa, tanto para dias com muito vento/chuva, quanto para o vazamento de gases.
 * Controle de iluminação remotamente ou automaticamente.
 * Guia para o estacionamento do veículo.
+* Servo para o acionamento do portão.
 * Todos os acionamentos importantes, serão avisados com um "alarme".
 * Display LCD mostrando as informações relevantes do sistema.
