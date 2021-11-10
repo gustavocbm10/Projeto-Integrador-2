@@ -18,6 +18,8 @@ A economia e a sustentabilidade que podem ser geradas pela automação também �
 
 Sendo assim, podemos concluir que a automação residencial tem muito a ajudar, além de apenas nas tarefas cotidianas, como na segurança, ajuda de pessoas com deficiência e até uma melhor sustentabilidade.
 
+![domotica](http://www.sislite.pt/iLight/demo/smarthome-demo.html)
+
 ### Referências
 
 MATTEDE, Henrique. Domótica – O que é e quais as vantagens!. **Mundo da Elétrica**. Disponível em: <https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/>. Acesso em:  19 outubro 2021.
