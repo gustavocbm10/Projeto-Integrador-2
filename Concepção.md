@@ -3,6 +3,18 @@
 
 O nosso objetivo desse projeto, é fazer um sistema de automação residencial que de maneira inteligente e integrada, que consiga trazer mais benefícios tanto de comodidade, segurança e economia de energia para o cliente.
 
+### Objetivos do projeto:
+
+* Uma breve previsão meteorológica.
+* Sistemas de segurança contra alagamentos e vazamento de gases.
+* Abrir/Fechar janelas da casa, tanto para dias com muito vento/chuva, quanto para o vazamento de gases.
+* Controle de iluminação remotamente ou automaticamente.
+* Guia para o estacionamento do veículo.
+* Servo para o acionamento do portão.
+* Todos os acionamentos importantes, serão avisados com um "alarme".
+* Display LCD mostrando as informações relevantes do sistema.
+
+
 ### Componentes Eletrônicos:
 
 * Placa MEGA 2560 R3 + Fonte + Cabo USB p/ Arduino
@@ -27,15 +39,3 @@ O nosso objetivo desse projeto, é fazer um sistema de automação residencial q
 ![buzzer](https://www.filipeflop.com/wp-content/uploads/2017/07/2-142.jpg)
 * Display LCD 16x2 I2C Backlight Azul
 ![display](https://cdn.awsli.com.br/600x700/468/468162/produto/19414150/display-lcd-16x2-i2c-backlight-azul-7ff37942.jpg)
-
-
-### Objetivos do projeto:
-
-* Uma breve previsão meteorológica.
-* Sistemas de segurança contra alagamentos e vazamento de gases.
-* Abrir/Fechar janelas da casa, tanto para dias com muito vento/chuva, quanto para o vazamento de gases.
-* Controle de iluminação remotamente ou automaticamente.
-* Guia para o estacionamento do veículo.
-* Servo para o acionamento do portão.
-* Todos os acionamentos importantes, serão avisados com um "alarme".
-* Display LCD mostrando as informações relevantes do sistema.
