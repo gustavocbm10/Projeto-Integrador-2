@@ -6,6 +6,7 @@ O nosso objetivo desse projeto, é fazer um sistema de automação residencial q
 ### Componentes Eletrônicos:
 
 * Placa MEGA 2560 R3 + Fonte + Cabo USB p/ Arduino
+![MEGA 2560](https://www.filipeflop.com/wp-content/uploads/2017/07/1AC04-1.jpg)
 * Sensor de Umidade e Temperatura DHT11
 * Sensor de presença e movimento PIR
 * Sensor de gás MQ-2 inflamável e fumaça
