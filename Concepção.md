@@ -5,12 +5,11 @@ O nosso objetivo desse projeto, é fazer um sistema de automação residencial q
 
 ### Objetivos do projeto:
 
-* Uma breve previsão meteorológica.
-* Sistemas de segurança contra alagamentos e vazamento de gases.
-* Abrir/Fechar janelas da casa, tanto para dias com muito vento/chuva, quanto para o vazamento de gases.
-* Controle de iluminação remotamente ou automaticamente.
-* Guia para o estacionamento do veículo.
-* Servo para o acionamento do portão.
+* Uma breve previsão meteorológica. (Utilizaremos o "Sensor DHT" p/ a medição da temperatura e umidade, o "Módulo Sensor de Nível Água Chuva" p/ pedir quantos mm de chuva caíram e aparecerá no Display ou na Matriz de Led)
+* Sistemas de segurança contra alagamentos e vazamento de gases. (Para alagamentos, quando passar de um certa medida {utilizando o "Módulo Sensor de Nível de Água Chuva"} de mm de água, o buzzer ira produzir um som e em seguida aparecerá o alerta escrito no display. Para o vazamento de gases utilizaremos o "Sensor MQ-2", o qual vai acionar um alerta com o buzzer, acionara o "Módulo Relé" para acionar um cooler {gerar a circulção do ar})
+* Abrir/Fechar janelas da casa, tanto para dias com muita chuva, quanto para o vazamento de gases. (Vão ser utilizados Servos para controlar as janelas, a identifiação dos dias chuvosos vai ser feita pelo item nº1, e vazamento de gases item nº3)
+* Controle de iluminação remotamente ou automaticamente. (Realizada por leds, onde serão ativadas/desativadas de acordo com o "Sensor de movimento PIR".
+* Guia para o estacionamento do veículo. (Estaremos utilizando o "Sensor Ultrassônico HC-SR04", a "Matriz de Led" e o "Buzzer". O ultrassonico irá medir a distancia do carro em relação a parede, quando o carro vai se aproximando, a matriz de led vai acendendo de baixo para cima e o buzzer vai aumentando a frequência do som)
 * Todos os acionamentos importantes, serão avisados com um "alarme".
 * Display LCD mostrando as informações relevantes do sistema.
 
