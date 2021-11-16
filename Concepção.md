@@ -8,6 +8,7 @@ O nosso objetivo desse projeto, é fazer um sistema de automação residencial q
 * Placa MEGA 2560 R3 + Fonte + Cabo USB p/ Arduino
 ![MEGA 2560](https://www.filipeflop.com/wp-content/uploads/2017/07/1AC04-1.jpg)
 * Sensor de Umidade e Temperatura DHT11
+![DHT11](https://www.filipeflop.com/wp-content/uploads/2017/07/Dht11.jpg)
 * Sensor de presença e movimento PIR
 * Sensor de gás MQ-2 inflamável e fumaça
 * Micro Servo SG92R 9g TowerPro
